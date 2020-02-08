@@ -1,0 +1,41 @@
+_repo: The-Spark-The-Sixties_61298
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: Book 3 of "Old New York."
+gutenberg_issued: '2020-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Veterans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcsh 'Fathers-in-law -- Fiction'
+- GITenberg
+title: The Spark (The 'Sixties)
+url: http://www.gutenberg.org/ebooks/61298
